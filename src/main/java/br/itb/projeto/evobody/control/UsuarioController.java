@@ -34,12 +34,5 @@ public class UsuarioController {
 		return "index";
 	}
 	
-
-
-
-
-
-
-	
 }
 	
